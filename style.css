@@ -20,18 +20,19 @@ body{
 .header-nav{
     display: flex;
     justify-content: space-between;
+    margin-top: 24px;
 }
 
 .left{
     align-self: left;
-    font-size: 64px;
+    font-size: 46px;
     color: #f9faf8;
 }
 
 .header-nav .right{
     display: flex;
-    gap: 24px;
-    font-size: 48px;
+    gap: 18px;
+    font-size: 32px;
 }
 
 a{
